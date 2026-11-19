@@ -1,5 +1,5 @@
 {
-  "name": "sf-ynzg71ioy1",
+  "name": "@dripfunnel/storefront-template",
   "private": true,
   "type": "module",
   "scripts": {
@@ -10,7 +10,7 @@
     "check": "dripfunnel-check && tsc -p tsconfig.json"
   },
   "dependencies": {
-    "@dripfunnel/storefront-core": "1.0.0-dev.149",
+    "@dripfunnel/storefront-core": "2.0.0-dev.162",
     "next": "^16.3.6",
     "react": "^19.3.0",
     "react-dom": "^19.3.0"
